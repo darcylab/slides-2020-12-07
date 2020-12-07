@@ -56,14 +56,14 @@ conception → implantation → fitting
 ---
 
 ## How?
-☑ Preop. anatomy reconstruction (PhD, using Bayesian inference)
-    ↳ Surgery planning
-☑ Postop. electrode reconstruction
-    ↳ Design review
-☑ Modality registration
-    ↳ Insertion depth and trauma evaluation
-☑ Fitting (Hz, nC) using images, impedences and demographics data
-☐ Nerve health modelisation using objective measures (e.g. eCAPs)
+[x] Preop. anatomy reconstruction (PhD, using Bayesian inference)
+    → Surgery planning
+[x] Postop. electrode reconstruction
+    → Design review
+[x] Modality registration
+    → Insertion depth and trauma evaluation
+[x] Fitting (Hz, nC) using images, impedences and demographics data
+[  ] Nerve health modelisation using objective measures (e.g. eCAPs)
 
 ---
 
@@ -129,19 +129,16 @@ sns.stripplot(**plot_values, **strip_options)
 ---
 
 ## Accuracy vs. Robustness
-<br />
-<center><img src="error.svg"></center>
+
+![60%](error.svg)
 *valid for medical UX
 
 ---
 
 ## From MIC to CAI
-<br />
-<center>
-    <img src="http://www.miccai.org/themes/customtheme/images/MICCAI_logo_bkg.png">
-    <br />
-    Medical Image Computing and Computer Assisted Interventions
-</center>
+
+![20%](http://www.miccai.org/themes/customtheme/images/MICCAI_logo_bkg.png)
+Medical Image Computing and Computer Assisted Interventions
 
 ---
 
