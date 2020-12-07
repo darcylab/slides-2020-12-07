@@ -80,6 +80,14 @@ conception → implantation → fitting
 
 ---
 
+## Technological design
+
+* Use of actively maintained, cross-platform, multiple programming languages (C++, Python, JavaScript, etc.) libraries
+* Cloud-based and GDPR compliant
+* DevOps automation: Automated testing and container deployment, scaling, and management
+
+---
+
 ## Why leaving Oticon Medical?
 
 ![bg 60%](anywhere.svg)
@@ -152,5 +160,3 @@ sns.stripplot(**plot_values, **strip_options)
 ---
 <!-- _backgroundColor: black -->
 <!-- _paginate: false -->
-
----
